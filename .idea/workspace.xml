@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e35c25a4-5eef-4698-9c7d-b191f5a44420" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/stripe-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stripe-demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-session.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-session.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1hxu9LFVbqhBgHUmpPhB3IFx0vC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../formations-prototype" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -49,7 +58,12 @@
       <option name="presentableId" value="Default" />
       <updated>1600964911889</updated>
       <workItem from="1600964912918" duration="6636000" />
-      <workItem from="1601039392762" duration="4370000" />
+      <workItem from="1601039392762" duration="8224000" />
+      <workItem from="1601299517562" duration="128000" />
+      <workItem from="1601300124593" duration="245000" />
+      <workItem from="1601305063745" duration="674000" />
+      <workItem from="1601314317163" duration="1261000" />
+      <workItem from="1601402668877" duration="144000" />
     </task>
     <servers />
   </component>
@@ -57,10 +71,11 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="460" key="FileChooserDialogImpl" timestamp="1601040119656">
+    <state x="1060" y="460" key="FileChooserDialogImpl" timestamp="1601402810586">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="1060" y="460" key="FileChooserDialogImpl/0.0.2560.1410/-1680.379.1680.1020@0.0.2560.1410" timestamp="1601040119656" />
+    <state x="1060" y="460" key="FileChooserDialogImpl/0.0.2560.1410/-1680.379.1680.1020@0.0.2560.1410" timestamp="1601046986147" />
+    <state x="1060" y="460" key="FileChooserDialogImpl/0.0.2560.1410/-1680.381.1680.1020@0.0.2560.1410" timestamp="1601402810586" />
     <state x="987" y="304" width="585" height="801" key="find.popup" timestamp="1601041792561">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
